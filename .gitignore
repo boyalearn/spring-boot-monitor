@@ -1,0 +1,9 @@
+/.idea/
+/spring-boot-monitor.iml
+/spring-boot-monitor-admin/spring-boot-monitor-admin.iml
+/spring-boot-monitor-application/spring-boot-monitor-application.iml
+/spring-boot-monitor-admin/target/
+/spring-boot-admin/spring-boot-admin.iml
+/spring-boot-admin/spring-boot-monitor-admin/spring-boot-monitor-admin.iml
+/spring-boot-admin/spring-boot-monitor-application/target/
+/spring-boot-admin/spring-boot-monitor-admin/target/
